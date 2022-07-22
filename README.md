@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Front End Engineering student at Turing School of Software & Design
+- 🔭 I’m currently a Front End Engineering student at [Turing School of Software & Design] (https://turing.edu/)
 - 🤔 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
 - 📫 How to reach me: anix1@kent.edu
 
