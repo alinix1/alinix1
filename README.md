@@ -6,4 +6,4 @@
 - 📫 How to reach me: anix1@kent.edu
 
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=cobalt)](https://github.com/alinix1/github-readme-stats)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=tokyonight)](https://github.com/alinix1/github-readme-stats)
