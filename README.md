@@ -8,5 +8,4 @@
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=cobalt)](https://github.com/alinix1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinix1&layout=compact)](https://github.com/alinix1/github-readme-stats)
 
