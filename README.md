@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=alinix1.alinix1)
+
 ### Hi there 👋
 
 - 🔭 I’m currently a Front End Engineering student at [Turing School of Software and Design](https://turing.edu/)
