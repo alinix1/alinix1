@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="30">
 <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" title="Chai" alt="Chai" width="100" height="30">
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" width="100" height="30">
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" title="OpenCV" alt="OpenCV" width="100" height="30">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="100" height="30">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="100" height="30">
 </p>
