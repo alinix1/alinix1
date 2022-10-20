@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently a Front End Engineering student at [Turing School of Software and Design](https://turing.edu/)
 - 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in Biostatistics
 - 🤔 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
 - 📫 How to reach me: anix1@kent.edu
