@@ -22,7 +22,7 @@
 ## Currently Learning:
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
-
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="100" height="30">
 </p>
 
 ## Editors:
