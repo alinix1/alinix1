@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in Biostatistics
+- 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics
 - 🤔 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
 - 📫 How to reach me: anix1@kent.edu
 
