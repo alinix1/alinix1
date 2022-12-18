@@ -4,7 +4,7 @@
 
 - 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics
 - 🤔 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
-- 📫 How to reach me: anix1@kent.edu
+- 📫 How to reach me: anix8605@outlook.com
 
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=cobalt)](https://github.com/alinix1/github-readme-stats)
