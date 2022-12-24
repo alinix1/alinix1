@@ -1,11 +1,18 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=alinix1.alinix1)
 
-### Hi there 👋
+<h3 align='left'>Hi there, I'm Ali<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
-- 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics
-- 🤔 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
-- 📫 How to reach me: anix8605@outlook.com
+<p align='left'>
+🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics
+  <br>
+</p>
 
+<h4 align='left'>
+Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
+💻 software engineering student <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
+📫 email me <a href='anix8605@outlook.com'>@sguzman247@gmail.com</a><br>
+👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>@linkedIn</a>
+</h4>
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=cobalt)](https://github.com/alinix1/github-readme-stats)
 
