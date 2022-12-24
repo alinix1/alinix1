@@ -8,10 +8,10 @@
 </p>
 
 <h4 align='left'>
-Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕
+Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
 💻 software engineering student <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
 📫 email me <a href='anix8605@outlook.com'>@sguzman247@gmail.com</a><br>
-👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>@linkedIn</a>
+👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>@linkedIn</a><br>
 </h4>
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=cobalt)](https://github.com/alinix1/github-readme-stats)
