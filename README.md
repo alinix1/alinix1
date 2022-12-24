@@ -7,7 +7,7 @@
   <br>
 </p>
 
-<h4 align='left'>
+<h4 align='left' width="30px">
 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
 💻 software engineering student <a href='https://turing.edu'>Turing School of Software & Design</a><br>
 📫 email me <a href='anix8605@outlook.com'>anix8605@outlook.com</a><br>
