@@ -14,8 +14,7 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
 
-![](https://raw.githubusercontent.com/alinix1/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/alinix1/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ## Languages:
 <p align="left">
