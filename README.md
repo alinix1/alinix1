@@ -14,7 +14,7 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
 
-<h3 align='left' width='40px'>Languages:</h3>
+<h3 align='left' width='20px'>Languages:</h3>
 <p align="left" width="30px">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="100" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
