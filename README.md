@@ -52,7 +52,7 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="100" height="30">
 </p>
 
-#### Testing 
+#### Testing:
 <p align="left">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="30">
 <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" title="Chai" alt="Chai" width="100" height="30">
@@ -60,7 +60,7 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="100" height="30">
 </p>
  
-#### Social 
+#### Social:
 <p align="left">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="100" height="30">
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" title="Zoom" alt="Zoom" width="100" height="30">
@@ -68,12 +68,12 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="100" height="30">
 </p>
 
-#### Deployment 
+#### Deployment: 
 <p align="left">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="100" height="30">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" width="100" height="30">
 
-#### Design Tools
+#### Design Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="100" height="30">
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" width="100" height="30">
