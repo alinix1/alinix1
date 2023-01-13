@@ -14,8 +14,6 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
 ## Languages:
 <p align="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="100" height="30">
@@ -30,13 +28,15 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30">
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" title="GraphQL" alt="GraphQL" width="150" height="30">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest" width="100" height="30">
 </p>
 
 ## Editors:
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="150" height="30">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" title="Atom" alt="Atom" width="100" height="30">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="100" height="30">
+<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" title="Replit" alt="Replit" width="100" height="30">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter Notebook" alt="Jupyter Notebook" width="100" height="30">
 </p>
 
@@ -44,6 +44,7 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" width="100" height="30">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="Router" alt="Router" width="150" height="30">
+<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" title="GraphQL" alt="GraphQL" width="150" height="30">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="100" height="30">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="30">
 <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" title="Chai" alt="Chai" width="100" height="30">
@@ -54,17 +55,24 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="100" height="30">
 </p>
 
-## Other Skills:
+## Social 
 <p align="left">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="100" height="30">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="100" height="30">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="100" height="30">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="30">
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" title="Replit" alt="Replit" width="100" height="30">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="100" height="30">
+</p>
+
+## Deployment 
+
+## Design Tools
+<p align="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="100" height="30">
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" width="100" height="30">
+</p>
+
+## Organization & Presentation Tools:
+<p align="left">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="30">
 <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" title="Prezi" alt="Prezi" width="100" height="30">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="100" height="30">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" alt="Trello" width="100" height="30">
 </p>
 
