@@ -27,6 +27,7 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 ## Currently Learning:
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" width="100" height="30">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest" width="100" height="30">
 </p>
@@ -46,22 +47,32 @@ Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts �
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="Router" alt="Router" width="150" height="30">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" title="GraphQL" alt="GraphQL" width="150" height="30">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="100" height="30">
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="30">
-<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" title="Chai" alt="Chai" width="100" height="30">
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" width="100" height="30">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="100" height="30">
 <img src="https://user-images.githubusercontent.com/17680888/39081119-3057bbe2-456e-11e8-862c-646133ad4b43.png" title="Dayjs" alt="Dayjs" width="100" height="30">
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" title="Chartjs" alt="Chartjs" width="100" height="30">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="100" height="30">
 </p>
 
+## Testing 
+<p align="left">
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="30">
+<img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" title="Chai" alt="Chai" width="100" height="30">
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" width="100" height="30">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="100" height="30">
+</p>
+ 
 ## Social 
 <p align="left">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="100" height="30">
+<img src="	https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" title="Zoom" alt="Zoom" width="100" height="30">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="100" height="30">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="100" height="30">
 </p>
 
 ## Deployment 
+<p align="left">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="100" height="30">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" width="100" height="30">
 
 ## Design Tools
 <p align="left">
