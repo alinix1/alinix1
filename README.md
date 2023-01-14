@@ -13,7 +13,7 @@
 </p>
 
 <h4 align='left' width="50px">
- <em>Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕</em><br>
+ <strong>Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕</strong><br>
 💻 software engineering student <a href='https://turing.edu'>Turing School of Software & Design</a><br>
 📫 email me <a href='anix8605@outlook.com'>anix8605@outlook.com</a><br> 
 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
