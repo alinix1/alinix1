@@ -7,15 +7,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=gatham&show_icons=true" width="600">
   <a href="https://github.com/mhbarton/github-readme-stats"> 
 </div>
-<p align='left'>
+ 
+<p align='left' width="40px">
 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics
   <br>
 </p>
 
 <h4 align='left' width="30px">
 Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
+ 
 💻 software engineering student <a href='https://turing.edu'>Turing School of Software & Design</a><br>
+ 
 📫 email me <a href='anix8605@outlook.com'>anix8605@outlook.com</a><br>
+ 
 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
 
