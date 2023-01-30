@@ -1,8 +1,3 @@
-<!-- <h3 align='left'>Hi there, I'm Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
- -->
-<!--  
- ![Sunflower Header](https://user-images.githubusercontent.com/102000070/194622610-a4330c3d-feab-4681-bdc1-bfb8c765195c.png) -->
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=gatham&show_icons=true" width="600">
   <a href="https://github.com/mhbarton/github-readme-stats"> 
