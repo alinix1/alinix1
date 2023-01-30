@@ -3,7 +3,7 @@
   <a href="https://github.com/mhbarton/github-readme-stats"> 
 </div>
  
-<p style="font-size: 20px; align='left' width="30px">
+<p align='left' width="30px">
 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
 </p>
 
