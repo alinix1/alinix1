@@ -9,7 +9,7 @@
 
 <h4 align='left'>
  Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
-💻 software engineering student <a href='https://turing.edu'>Turing School of Software & Design</a><br>
+💻 software engineering grad <a href='https://turing.edu'>Turing School of Software & Design</a><br>
 📫 email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
