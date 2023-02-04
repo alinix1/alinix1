@@ -11,7 +11,7 @@
 
 <h4 align='left'>
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
- - 💬 Ask me about: _React, Cypress.io, JavaScript (ES6), HTML, CSS, Chai, Mocha, TypeScript, and GraphQL_
+ - 💬 *Ask me about: React, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha*
  - 💻 software engineering grad <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
  - 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
