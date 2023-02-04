@@ -3,18 +3,19 @@
   <a href="https://github.com/mhbarton/github-readme-stats"> 
 </div>
   
-<h1 align="center">Ali Nix</h1>
+<h2 align="center">Ali Nix</h2>
  
-<p align='left' width="100px">
+<h3 align='left' width="100px">
 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
-</p>
+</h3>
 
-<h4 align='left'>
- Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
-💻 software engineering grad <a href='https://turing.edu'>Turing School of Software & Design</a><br>
-📫 email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
-👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
-</h4>
+<h3 align='left'>
+ - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
+ - 💬 Ask me about: _React, Cypress.io, JavaScript (ES6), HTML, CSS, Chai, Mocha, TypeScript, and GraphQL_
+ - 💻 software engineering grad <a href='https://turing.edu'>Turing School of Software & Design</a><br>
+ - 📫 email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
+ - 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
+</h3>
  
  ![Hiking](https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg)
 
