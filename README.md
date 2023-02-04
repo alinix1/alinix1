@@ -9,7 +9,7 @@
 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
 </h4>
 
-<h4 align='center'>
+<h4 align='left'>
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
  - 💻 software engineering grad <a href='https://turing.edu'>Turing School of Software & Design</a><br>
