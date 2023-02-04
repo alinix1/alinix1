@@ -5,13 +5,13 @@
   
 <h2 align="center">Ali Nix</h2>
  
-<h4 align='left' width="100px">
+<h4 align='center' width="100px">
 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
 </h4>
 
-<h4 align='left'>
+<h4 align='center'>
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
- - 💬 *Ask me about: React, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha*
+ - 💬 Ask me about: React, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
  - 💻 software engineering grad <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
  - 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
