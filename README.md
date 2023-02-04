@@ -6,7 +6,7 @@
 <h2 align="center">Ali Nix</h2>
  
 <h4 align='center' width="100px">
-🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
+Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
 </h4>
 
 <h4 align='left'>
