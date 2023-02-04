@@ -6,10 +6,9 @@
 <h2 align="center" width="100px">Ali Nix</h2>
  
 <h4 align='left'>
-My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software and Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io, etc. 
-I'm currently learning Jest and TypeScript. 
-I have a passion for helping others via software, and strive to work in either med tech or green tech.
-  
+My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software and Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io, etc.<br>
+I'm currently learning Jest and TypeScript.<br>
+I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
 </h4>
 
