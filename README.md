@@ -17,7 +17,7 @@
  - 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
  
- ![Hiking](https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg | width=100)
+ ![Hiking](https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg =250x250)
 
 #### Languages: 
 <p align="left" width="30px">
