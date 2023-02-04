@@ -2,6 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=gatham&show_icons=true" width="600">
   <a href="https://github.com/mhbarton/github-readme-stats"> 
 </div>
+  
+<h1 align="center">Ali Nix</h1>
  
 <p align='left' width="100px">
 🌱 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics<br>
