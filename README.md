@@ -29,6 +29,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="100" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="100" height="30">
+<img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="100" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="100" height="30">
 </p>
 
