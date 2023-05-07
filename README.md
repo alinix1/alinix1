@@ -39,7 +39,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgreSQL" alt="postgreSQL" width="100" height="30">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30">
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest" width="100" height="30">
 </p>
 
 #### Editors:
