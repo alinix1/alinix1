@@ -1,6 +1,10 @@
 <div align="left">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" width="600">
-  <a href="https://github.com/mhbarton/github-readme-stats"> 
+   <a href="">
+    <img alt="Ali's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=alinix1&theme=gotham&show_icons=true" />
+  </a>
+  <a href="https://github.com/alinix1/github-readme-stats">
+    <img alt="Ali's Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinix1&theme=gotham&layout=compact" />
+  </a>
 </div>
   
 <h2 align="center" width="100px">Ali Nix</h2>
