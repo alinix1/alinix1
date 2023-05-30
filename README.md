@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=gatham&show_icons=true" width="600">
+  <img src="![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinix1&show_icons=true&theme=transparent)" width="600">
   <a href="https://github.com/mhbarton/github-readme-stats"> 
 </div>
   
