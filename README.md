@@ -7,7 +7,7 @@
  
 <h4 align='left'>
 My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software and Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io, etc.<br>
-I'm currently learning Jest, React Testing Library, TypeScript, and SQL.<br>
+I'm currently Redux and TypeScript while refreshing knowledge in Python.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 </h4>
