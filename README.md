@@ -88,6 +88,8 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <p align="left">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="100" height="30">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" width="100" height="30">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"
+width="100" height="30">
 
 #### Design Tools:
 <p align="left">
@@ -101,8 +103,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" title="Prezi" alt="Prezi" width="100" height="30">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" alt="Trello" width="100" height="30">
 </p>
-<!--   
-  These opportunities would allow me to develop software that is more accessible, inviting, and user friendly for students, teachers, administrators, and or clients of all backgrounds. I look forward to all of the projects I will develop and contribute to for users presenlty and in the future.  -->
+
   
 
 
