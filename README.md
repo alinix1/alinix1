@@ -28,7 +28,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
   
   #### Technologies Used:
 
-<table align="center">
+<table align="left">
 <tr>
 <td>
 
