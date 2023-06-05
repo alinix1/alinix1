@@ -26,7 +26,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
   
-  #### 🌱 Languages:
+  #### Languages:
 
 <table align="center">
 <tr>
@@ -36,6 +36,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="100" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="100" height="30">
 <img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="100" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="100" height="30">
@@ -46,11 +47,10 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 </tr>
 </table>
 
-<!-- <p align="left">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgreSQL" alt="postgreSQL" width="100" height="30">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30">
-</p>
+
 
 
 <p align="left">
