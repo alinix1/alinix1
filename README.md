@@ -11,23 +11,27 @@
  
 <h4 align='left'>
 My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software and Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io, etc.<br>
-I'm currently learning Redux and TypeScript while refreshing my knowledge of Python.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 </h4>
 
 <h4 align='left'>
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
- - 💬 Ask me about: React, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
- - 💻 software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
- - 📫 email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
- - 👉 let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
+ - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
+ - 🌱 Currently learning: Python as a refresher, Redux, AWS
+ - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
+ - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
+ - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
  
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
+  
+  #### 🌱 Languages:
 
-#### Languages: 
-<p align="left" width="30px">
+<table align="center">
+<tr>
+<td>
+
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="100" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="100" height="30">
@@ -36,16 +40,16 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="100" height="30">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="100" height="30">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="SASS" alt="SASS" width="100" height="30">
-</p>
 
-#### Currently Learning:
-<p align="left">
+</td>
+
+<!-- <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgreSQL" alt="postgreSQL" width="100" height="30">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30">
 </p>
 
-#### Editors:
+
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="150" height="30">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" title="Atom" alt="Atom" width="100" height="30">
@@ -102,7 +106,7 @@ width="100" height="30">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="30">
 <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" title="Prezi" alt="Prezi" width="100" height="30">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" alt="Trello" width="100" height="30">
-</p>
+</p> -->
 
   
 
