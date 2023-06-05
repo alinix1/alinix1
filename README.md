@@ -79,29 +79,22 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 </td>
  
 <td>
-   
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="150" height="35">
-- <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" title="Zoom" alt="Zoom" width="150" height="35">
 - <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="150" height="35">
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="150" height="35">
-
-</td>
-
-<td>
-
 - <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="150" height="35">
-- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" width="150" height="35">
-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"
-width="150" height="35">
-  
+
 </td>
 
+<!-- - <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" width="150" height="35">
+- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"
+width="150" height="35"> -->
+  
 <td>
 
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="150" height="35">
 - <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" width="150" height="35">
-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="150" height="35">
-- <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" title="Prezi" alt="Prezi" width="150" height="35">
+<!-- - <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="150" height="35"> -->
+<!-- - <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" title="Prezi" alt="Prezi" width="150" height="35"> -->
 - <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" alt="Trello" width="150" height="35">
    
 </td>
