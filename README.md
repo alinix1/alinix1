@@ -57,6 +57,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 </td>
    
 <td> 
+   
 - <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" title="GraphQL" alt="GraphQL" width="150" height="35">
 - <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="150" height="35">
 - <img src="https://img.shields.io/badge/-knex.js-orange" title="Knex" alt="Knex" width="150" height="35">
@@ -67,6 +68,9 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="150" height="35">
    
 </td>
+   
+</tr>
+</table>
    
 <!-- <td> 
    
@@ -99,8 +103,7 @@ width="150" height="35"> -->
    
 </td>
     --> 
-</tr>
-</table>
+
 
 
   
