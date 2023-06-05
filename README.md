@@ -42,6 +42,9 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="SASS" alt="SASS" width="100" height="30">
 
 </td>
+   
+</tr>
+</table>
 
 <!-- <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="30">
