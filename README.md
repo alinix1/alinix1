@@ -44,7 +44,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
    
 <td>
 
-- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="150" height="45">
+- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="250" height="45">
 - <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" title="Atom" alt="Atom" width="100" height="35">
 - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="100" height="35">
 - <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" title="Replit" alt="Replit" width="100" height="35">
