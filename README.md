@@ -26,7 +26,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
   
-  #### Languages:
+  #### Technologies Used:
 
 <table align="left">
 <tr>
@@ -42,13 +42,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
 </td>
    
-</tr>
-</table>
-
-  #### Editors:
-
-<table align="left">
-<tr>
 <td>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="150" height="30">
@@ -65,7 +58,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="postgreSQL" alt="postgreSQL" width="100" height="30">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="30"> -->
 
-#### Frameworks & Libraries: 
+<!-- #### Frameworks & Libraries: 
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" width="100" height="30">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="Router" alt="Router" width="150" height="30">
@@ -113,7 +106,7 @@ width="100" height="30">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="30">
 <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" title="Prezi" alt="Prezi" width="100" height="30">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" alt="Trello" width="100" height="30">
-</p> -->
+</p> --> -->
 
   
 
