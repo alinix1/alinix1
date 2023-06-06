@@ -40,8 +40,8 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="130" height="30">
 - <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="SASS" alt="SASS" width="130" height="30">
 - <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="130" height="40">
-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="150" height="35">
-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="150" height="35">
+- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="130" height="30">
+- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="130" height="30">
 
 </td>
    
@@ -56,7 +56,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="130" height="30">
 - <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" title="Chai" alt="Chai" width="130" height="30">
 - <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" alt="Express" width="130" height="30">
-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="150" height="35">
+- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel" width="130" height="30">
    
 </td>
    
@@ -69,9 +69,9 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" title="Chartjs" alt="Chartjs" width="130" height="30">
 - <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack" width="130" height="30">
 - <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" alt="Trello" width="130" height="30">
-- <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" width="150" height="35">
-- <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" width="150" height="35">
-- <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" width="150" height="35">
+- <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress" width="130" height="30">
+- <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" width="130" height="30">
+- <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" width="130" height="30">
    
 </td>
    
