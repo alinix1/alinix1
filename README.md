@@ -25,8 +25,8 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 </h4>
  
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
-  
-  ### Technologies Used:
+
+   <h2 align="center">Technology Used:</h1> 
 
 <table align="center">
 <tr>
