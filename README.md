@@ -23,10 +23,12 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
  - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
 </h4>
- 
-  <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
 
-   <h2 align="center">Technologies Used 💻</h1> 
+  <h2 align="center"> 
+  <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
+  </h2>
+  
+   <h2 align="center">Technologies Used 👇🏼</h2> 
 
 <table align="center">
 <tr>
