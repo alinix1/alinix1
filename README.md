@@ -8,7 +8,7 @@
 </div>
   
 <h2 align="center" width="100px">Ali Nix</h2>
-<h4 align="center" width="100px">Software Developer</h4>
+<h4 align="center" width="150px" color="blue">Software Developer</h4>
  
 <h4 align='left'>
 My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io, etc.<br>
