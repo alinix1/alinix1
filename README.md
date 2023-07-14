@@ -19,7 +19,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <h4 align='left'>
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
- - 🌱 Currently learning: Python (Back-End), Redux, AWS <br>
+ - 🌱 Currently learning: Python, TypeScript, Redux, AWS <br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
  - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
