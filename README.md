@@ -19,7 +19,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <h4 align='left'>
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
- - 🌱 Currently learning: Python, TypeScript, Redux, AWS <br>
+ - 🌱 Currently learning: Python, TypeScript, Next, Tailwind <br>
  - 🌱 Code Wars kata level: <a href='https://www.codewars.com/users/alinix1/badges/large'>Code Wars Badge</a><br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
