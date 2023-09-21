@@ -7,11 +7,10 @@
   </a>
 </div>
 
-:---:
-Ali Nix<br>
-Software Developer<br>
-
 ---
+Ali Nix
+Software Developer
+
 My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript<br> (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io. Data visualization is something that interests me within software development.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
@@ -23,6 +22,8 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
  - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>LinkedIn</a><br>
+
+ ---
 
   <h2 align="center"> 
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
