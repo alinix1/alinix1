@@ -85,9 +85,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
   
   <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22rfmmuedhksctr4hahbrzmli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<div align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=jrmedina&&style=flat-square" align="center" /> -->
-</div>  
 
 
 
