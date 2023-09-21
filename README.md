@@ -16,7 +16,7 @@ I have a passion for helping others via software, and strive to work in either m
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 
 
-<h4 align='left'>
+
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
  - 🌱 Currently learning: Python, TypeScript, Next.js, Tailwind CSS <br>
@@ -24,7 +24,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
  - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
-</h4>
 
   <h2 align="center"> 
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
