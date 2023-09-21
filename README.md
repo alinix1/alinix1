@@ -8,7 +8,7 @@
 </div>
 
 ---
-  
+<div style="text-align:center;">This text is centered.</div>
 Ali Nix<br>
 Software Developer<br>
 
