@@ -11,7 +11,7 @@
 <h3 align="center" width="150px">Software Developer</h3>
 
 
-My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript<br> (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io. Data visualization is something that interests me within software development.<br>
+### My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript<br> (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io. Data visualization is something that interests me within software development.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 
