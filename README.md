@@ -6,6 +6,8 @@
     <img alt="Ali's Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinix1&theme=aura&layout=compact" />
   </a>
 </div>
+
+---
   
 Ali Nix<br>
 Software Developer<br>
@@ -15,15 +17,13 @@ My name is Ali Nix. I'm a Software Developer and graduate from Turing School of 
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 
-
-
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
  - 🌱 Currently learning: Python, TypeScript, Next.js, Tailwind CSS <br>
  - 🏆 Code Wars kata level: <a href='https://www.codewars.com/users/alinix1/badges/large'>Code Wars badge</a><br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
- - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>linkedIn</a><br>
+ - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>LinkedIn</a><br>
 
   <h2 align="center"> 
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
