@@ -9,7 +9,7 @@
 
 ---
 <h2 align="center"> 
-Software Developer
+Web Developer
 </h2>
 My name is Ali Nix. I'm a Software Developer and graduate from Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io.<br>
 Data visualization is something that interests me within software development.<br>
