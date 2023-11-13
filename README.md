@@ -17,6 +17,8 @@ I have a passion for helping others via software, and strive to work in either m
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 Someday I may pursue a master's in data science.<br>
 
+ ---
+
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
  - 🌱 Currently learning: TypeScript, Firebase, SASS/SCSS, Playwright, and PHP, Wordpress soon <br>
