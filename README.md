@@ -15,6 +15,7 @@ My name is Ali Nix. I'm a Software Developer and graduate from Turing School of 
 Data visualization is something that interests me within software development.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
+Someday I may pursue a master's in data science.<br>
 
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3, Chai, and Mocha <br>
