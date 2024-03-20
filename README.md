@@ -20,7 +20,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, drawing 🎨, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3 <br>
- - 🌱 Currently learning: TypeScript, Authentication, Stripe, and PostgreSQL <br>
+ - 🌱 Currently learning: Backend Technologies plus TypeScript, Authentication, Stripe, and PostgreSQL <br>
  - 💡 Curious to learn: PHP, WordPress and other CMS <br>
  - 🏆 Code Wars kata level: <a href='https://www.codewars.com/users/alinix1/badges/large'>Code Wars badge</a><br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
