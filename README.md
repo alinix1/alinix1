@@ -11,7 +11,7 @@
 <h2 align="center"> 
 Software Developer
 </h2>
-My name is Ali Nix. I'm a Web Developer and graduate from The Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io.<br>
+My name is Ali Nix. I'm a Front End Software Engineer and graduate from The Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io.<br>
 Data visualization is something that interests me within software development.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
@@ -20,8 +20,8 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, drawing 🎨, and my dog 🐕<br>
  - 💬 Ask me about: React.js, Cypress.io, JavaScript (ES6), HTML5, CSS3 <br>
- - 🌱 Currently learning: Backend Technologies plus TypeScript, Authentication, Stripe, and PostgreSQL <br>
- - 💡 Curious to learn: PHP, WordPress and other CMS <br>
+ - 🌱 Currently learning: Backend Technologies plus TypeScript, Authentication, Stripe, and PostgreSQL for database <br>
+ - 💡 Curious to learn: PHP, WordPress <br>
  - 🏆 Code Wars kata level: <a href='https://www.codewars.com/users/alinix1/badges/large'>Code Wars badge</a><br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - ⚡ Certifications: <a href='https://www.credly.com/badges/a3dae618-e9aa-4c14-98ae-4bbf24e2b3c0/public_url'>AWS, Cloud Practitioner</a><br>
