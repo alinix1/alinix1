@@ -55,7 +55,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
 - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="120" height="30">
 - <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="120" height="30">
-- <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux" width="120" height="30">
 - <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="120" height="30">
 - <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" title="Chartjs" alt="Chartjs" width="120" height="30">
 - <img src="https://user-images.githubusercontent.com/17680888/39081119-3057bbe2-456e-11e8-862c-646133ad4b43.png" title="Dayjs" alt="Dayjs" width="120" height="30">
@@ -68,7 +67,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
    
 - <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" width="120" height="30">
 - <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" title="Vercel" alt="Vercel" width="120" height="30">
-- <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white" title="GraphQL" alt="GraphQL" width="120" height="30">
 - <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="120" height="30">
 - <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" title="Chai" alt="Chai" width="120" height="30">
 - <img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white" title="Cypress" alt="Cypress" width="120" height="30">
