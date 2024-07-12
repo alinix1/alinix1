@@ -12,14 +12,14 @@
 Frontend Developer
 </h2>
 My name is Ali Nix. I'm a Front End Software Engineer and graduate from The Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io.<br>
-Data visualization is something that interests me within software development.<br>
+UX & data visualization are things that interest me in software development.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 
  ---
 
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, drawing 🎨, and my dog 🐕<br>
- - 💬 Ask me about: React.js, JavaScript (ES6), HTML5/JSX, CSS3, Cypress.io <br>
+ - 💬 Ask me about: React.js, JavaScript (ES6), HTML5/JSX, CSS3, TDD <br>
  - 🌱 Currently learning: backend technologies - PostgreSQL for database plus Stripe integration and TypeScript <br>
  - 🏆 Code Wars kata level: <a href='https://www.codewars.com/users/alinix1/badges/large'>Code Wars badge</a><br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
