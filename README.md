@@ -46,6 +46,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="120" height="30">
 - <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS" alt="CSS3" width="120" height="30">
 - <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="120" height="30">
+- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="120" height="30">
 - <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS" width="120" height="30">
 - <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" width="120" height="30">
 
@@ -55,6 +56,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
 - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="120" height="30">
 - <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="120" height="30">
+- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="120" height="30">
 - <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="120" height="30">
 - <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" title="Chartjs" alt="Chartjs" width="120" height="30">
 - <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="120" height="30">
