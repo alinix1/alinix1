@@ -12,7 +12,7 @@
 Frontend Developer
 </h2>
 My name is Ali Nix. I'm a Front End Software Engineer and graduate from The Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML, CSS, Mocha/Chai, React.js, React Router, Cypress.io.<br>
-UX & data visualization are things that interest me in software development.<br>
+User Experience (UX) & data visualization are things that interest me in software development.<br>
 I have a passion for helping others via software, and strive to work in either med tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
 
