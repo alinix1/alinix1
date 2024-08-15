@@ -80,7 +80,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
   <h2 align="center">Backend Technologies</h2> 
 
-<table align="left">
+<table align="center">
 <tr>
 <td>
 
