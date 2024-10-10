@@ -88,7 +88,8 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="120" height="30">
 - <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" width="120" height="30">
 -  <img src="https://img.shields.io/badge/Pytest-3776AB.svg?style=for-the-badge&logo=Pytest&logoColor=white" title="Pytest" alt="Pytest" width="120" height="30">
-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" title="postgreSQL" alt="postgreSQL" width="120" height="30">
+- <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="120" height="30">
+- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="120" height="30">
 - <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" title="Heroku" alt="Heroku" width="120" height="30">
 - <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express" width="120" height="30">
 - <img src="https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" title="Knex" alt="Knex" width="130" height="30">
