@@ -58,6 +58,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 - <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="120" height="30">
 - <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="120" height="30">
 - <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="120" height="30">
+- <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" title="Axios" alt="Axios" width="120" height="30">
 - <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="120" height="30">
 - <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="120" height="30">
 - <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" title="Webpack" alt="Webpack" width="120" height="30">
