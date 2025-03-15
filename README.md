@@ -34,27 +34,24 @@ Before learning how to code, I graduated with a Master of Public Health degree w
   </h2>
   
    <h2 align="center">Frontend Technologies</h2> 
-<table align="center">
-<tr>
-<td><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS" alt="CSS3" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="120" height="25"></td>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML" width="120" height="25">
+<img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="120" height="25">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS" alt="CSS3" width="120" height="25">
+<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS" width="120" height="25">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="120" height="25">
     
-<td><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="120" height="25"></td>    
-<td><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" width="120" height="25"></td>
-<td><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vue" alt="Vue" width="120" height="25"></td>
-      
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="120" height="25">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" width="120" height="25">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" width="120" height="25">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" width="120" height="25"><
+<img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="120" height="25">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="120" height="25">
+<img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="120" height="25">    
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="120" height="25">
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" width="120" height="25">
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vue" alt="Vue" width="120" height="25">
+</div>
 
   <h2 align="center">Backend Technologies</h2> 
 
