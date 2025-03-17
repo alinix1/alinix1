@@ -55,6 +55,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
   
 <div align="center">
 <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express" width="100" height="28">
+<img src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white" title="Hono" alt="Hono" width="100" height="20">
 <img src="https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" title="Knex" alt="Knex" width="100" height="28">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="28">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="100" height="28">
