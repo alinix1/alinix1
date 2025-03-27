@@ -9,7 +9,7 @@
 
 ---
 <h2 align="center"> 
-UI/UX & Frontend Developer
+Frontend Developer
 </h2>
 My name is Ali Nix. I'm an Entry-Level Front End Software Engineer and graduate from The Turing School of Software & Design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML5, CSS3, Mocha/Chai, React.js, React Router, Cypress.io.<br>
 User Experience (UX) & data visualization are things that interest me in software development.<br>
