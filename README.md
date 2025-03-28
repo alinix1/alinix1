@@ -11,6 +11,13 @@
 <a href="mailto:anix8605@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" width="100" height="28"> 
 </a> 
+</div>
+
+<div align="center"> 
+<a href="href='https://www.linkedin.com/in/ali-nix-38b9b9126/"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="100" height="28"> 
+</a> 
+</div>
 
 ---
 <h2 align="center"> 
@@ -28,8 +35,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  - 🌱 Currently learning: AWS for deployment and UI/UX design principles <br>
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - ⚡ Certifications: <a href='https://www.credly.com/badges/a3dae618-e9aa-4c14-98ae-4bbf24e2b3c0/public_url'>AWS, Cloud Practitioner</a><br>
- - 📫 Email me <a href='anix8605@gmail.com'>anix8605@gmail.com</a><br> 
- - 👉 Let's connect <a href='https://www.linkedin.com/in/ali-nix-38b9b9126/'>LinkedIn</a><br>
 
  ---
 
