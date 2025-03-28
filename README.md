@@ -14,7 +14,7 @@
 </div>
 
 <div align="center"> 
-<a href="href='https://www.linkedin.com/in/ali-nix-38b9b9126/"> 
+<a href="https://www.linkedin.com/in/ali-nix-38b9b9126/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="100" height="28"> 
 </a> 
 </div>
