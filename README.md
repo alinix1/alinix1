@@ -10,8 +10,8 @@
 <br/>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="mailto:anix8605@gmail.com">
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="mailto:anix8605@gmail.com" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/ali-nix-38b9b9126/">
