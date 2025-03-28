@@ -10,11 +10,11 @@
 <br/>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="mailto:anix8605@gmail.com" style="margin-right: 10px;">
+<div align="center">
+  <a href="mailto:anix8605@gmail.com" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/ali-nix-38b9b9126/">
+  <a href="https://www.linkedin.com/in/ali-nix-38b9b9126/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn">
   </a>
 </div>
