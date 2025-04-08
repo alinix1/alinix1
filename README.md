@@ -80,6 +80,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" title="Heroku" alt="Heroku" width="100" height="28">
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" width="100" height="28">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="28">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" title="yarn" alt="yarn" width="100" height="28">
 <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="100" height="28">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" title="Webpack" alt="Webpack" width="100" height="28">
 </div>
