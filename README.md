@@ -54,6 +54,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="100" height="28">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" width="100" height="28">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" width="100" height="28">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="28">
 <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="100" height="28">
 <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="100" height="28">    
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="100" height="28">
@@ -88,8 +89,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
  <h2 align="center">Testing Frameworks</h2> 
 
-<div align="center">
-    
+<div align="center">  
 <img src="https://img.shields.io/badge/Pytest-3776AB.svg?style=for-the-badge&logo=Pytest&logoColor=white" title="Pytest" alt="Pytest" width="100" height="28">
 <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="28">
 <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" title="Chai" alt="Chai" width="100" height="28">
@@ -100,8 +100,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
  <h2 align="center">Exposure Technologies</h2> 
 
-<div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="28">
+<div align="center">    
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="28">
 <img src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white" title="Hono" alt="Hono" width="100" height="28">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="100" height="28">
@@ -112,7 +111,6 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" width="100" height="28">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="100" height="28">
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" width="100" height="28">
-
 </div>
 
 
