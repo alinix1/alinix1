@@ -33,7 +33,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, drawing 🎨, and my dog 🐕<br>
  - 💬 Ask me about: React.js, JavaScript (ES6), HTML5/JSX, CSS3, TDD, UI/UX <br>
  - 🌱 Currently learning: AWS for deployment and UI/UX design principles <br>
- - 💪 My strengths include life-long learning, discipline, futuristic thinking, consistency, and focus.
+ - 💪 My strengths include life-long learning, discipline, futuristic thinking, consistency, and focus
  - 💻 Software engineering graduate <a href='https://turing.edu'>Turing School of Software & Design</a><br>
  - ⚡ Certifications: <a href='https://www.credly.com/badges/a3dae618-e9aa-4c14-98ae-4bbf24e2b3c0/public_url'>AWS, Cloud Practitioner</a><br>
 
