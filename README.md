@@ -67,6 +67,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express" width="100" height="28">
 <img src="https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" title="Knex" alt="Knex" width="100" height="28">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="28">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="100" height="28">
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" title="Stripe" alt="Stripe" width="100" height="28">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Spotify" alt="Spotify" width="100" height="28">
 </div>
@@ -104,7 +105,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
 
 <div align="center">    
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="28">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="100" height="28">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="100" height="28">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS" width="100" height="28">
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" width="100" height="28">
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vue" alt="Vue" width="100" height="28">
