@@ -21,9 +21,9 @@
 
 ---
 <h2 align="center"> 
-Frontend Developer | UX Focused
+UX Focused | Creative Developer
 </h2>
-My name is Ali Nix. I'm a Front End Engineer (FEE) graduate from The Turing School of Software & Design with a strong interest in UX design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML5, CSS3, Mocha/Chai, React.js, React Router, Cypress.io.<br>
+My name is Ali Nix. I'm a Front End Engineer (FEE) graduate from The Turing School of Software & Design with a focus in UX design. Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML5, CSS3, Mocha/Chai, React.js, React Router, Cypress.io.<br>
 User Experience (UX) & data visualization are things that interest me in software development.<br>
 I have a passion for helping others via software, and strive to work in either health tech or green tech.<br>
 Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
