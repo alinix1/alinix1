@@ -37,6 +37,7 @@ Before learning how to code, I graduated with a Master of Public Health degree w
  - 💪 My soft skills and strengths include life-long learning, discipline, futuristic thinking, consistency, focus and empathy <br>
  - 🎓 *Turing School of Software & Design* | *Kent State University* <br>
  - ⚡ Certifications: <a href='https://www.credly.com/badges/a3dae618-e9aa-4c14-98ae-4bbf24e2b3c0/public_url'>AWS, Cloud Practitioner</a><br>
+ - <a href='https://coursera.org/share/cbafb400d3bfa4189596cd3b526c5163'>Google, UX Design</a><br>
 
  ---
 
