@@ -21,7 +21,7 @@
 
 ---
 <h2 align="center"> 
-Frontend Developer | UX Designer
+UX Designer & Developer
 </h2>
 My name is Ali Nix. I'm a Front End Engineer (FEE) graduate from The Turing School of Software & Design with a focus in UX design.<br>
 Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML5, CSS3, Mocha/Chai, React.js, React Router, Cypress.io.<br>
