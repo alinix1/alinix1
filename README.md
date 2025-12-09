@@ -1,5 +1,5 @@
 <div align="center">
-   <!-- <a href="">
+   <a href="">
     <img alt="Ali's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=alinix1&theme=aura&show_icons=true" />
   </a>
   <a href="https://github.com/alinix1/github-readme-stats">
@@ -8,7 +8,7 @@
 </div>
 
 <br/>
-<br/> -->
+<br/>
 
 <div align="center">
   <a href="mailto:anix8605@gmail.com">
