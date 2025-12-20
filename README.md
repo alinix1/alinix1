@@ -21,19 +21,19 @@
 
 ---
 <h2 align="center"> 
-UX Designer & Developer
+Data Analyst | Healthcare & Environmental Analytics 
 </h2>
-My name is Ali Nix. I'm a Front End Engineer (FEE) graduate from The Turing School of Software & Design with a focus in UX design.<br>
-Throughout my time at Turing I was able to develop many applications with JavaScript (ES6), HTML5, CSS3, Mocha/Chai, React.js, React Router, Cypress.io.<br>
-User Experience (UX) & data visualization are things that interest me in software development and beyond.<br>
+My name is Ali Nix. I'm a data analyst with an MPH in Biostatistics, focused on using data to drive insights in healthcare and environmental sectors.<br>
+I build end-to-end data solutions-from ETL pipelines and statistical analysis to interactive dashboards and data storytelling.<br>
+With a background spanning public health, data science, and full-stack web development, I bring a unique combination of domain expertise, technical versatility, and statistical rigor to every project.<br>
 I have a passion for helping others via software, and strive to work in either health tech or green tech.<br>
-Before learning how to code, I graduated with a Master of Public Health degree with a concentration in biostatistics.<br>
+<br>
 
  ---
 
- - Things I enjoy include climbing 🧗, skiing ⛷️, traveling 🌎, concerts 🎶, drawing 🎨, and my dog 🐕<br>
- - 💬 Ask me about: React.js, JavaScript (ES6), HTML5/JSX, CSS3, TDD, UI/UX <br>
- - 🌱 Currently learning: AWS for deployment, UI/UX design principles <br>
+ - Things I enjoy include climbing 🧗, skiing ⛷️, biking 🚴, traveling 🌎, concerts 🎶, and art 🎨<br>
+ <!--- 💬 Ask me about: React.js, JavaScript (ES6), HTML5/JSX, CSS3, TDD, UI/UX <br> -->
+ - 🌱 Currently learning & reviewing: SQL, ETL, Snowflake, dbt, Excel, and Python for data analytics.<br>
  - 💪 My soft skills and strengths include life-long learning, discipline, futuristic thinking, consistency, focus and empathy <br>
  - 🎓 *Turing School of Software & Design* | *Kent State University* <br>
  - ⚡ Certifications: <a href='https://www.credly.com/badges/a3dae618-e9aa-4c14-98ae-4bbf24e2b3c0/public_url'>AWS, Cloud Practitioner</a>, <a href='https://www.credly.com/badges/6cac6903-d94c-497e-b4e1-d5d957371b4a/public_url'>Google, UX Design</a><br>
