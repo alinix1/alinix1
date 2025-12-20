@@ -32,7 +32,6 @@ I'm passionate about leveraging data analytics to address health disparities and
  ---
 
  - Things I enjoy include climbing 🧗, skiing ⛷️, biking 🚴, traveling 🌎, concerts 🎶, and art 🎨<br>
- <!--- 💬 Ask me about: React.js, JavaScript (ES6), HTML5/JSX, CSS3, TDD, UI/UX <br> -->
  - 🌱 Currently learning & reviewing: SQL, ETL, Snowflake, dbt, Excel, and Python for data analytics.<br>
  - 💪 My soft skills and strengths include life-long learning, discipline, futuristic thinking, consistency, focus and empathy <br>
  - 🎓 *Turing School of Software & Design* | *Kent State University* <br>
