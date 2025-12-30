@@ -42,6 +42,12 @@ I'm passionate about leveraging data analytics to address health equity and envi
   <h2 align="center"> 
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
   </h2>
+
+   <h2 align="center">Data Analysis Tools</h2> 
+
+<div align="center">
+
+</div>
   
    <h2 align="center">Frontend Technologies</h2> 
    
