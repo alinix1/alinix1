@@ -21,7 +21,7 @@
 
 ---
 <h2 align="center"> 
-Data Analyst | Healthcare Analytics 
+Data Analyst 
 </h2>
 My name is Ali Nix. I'm a data analyst with a Master's in Biostatistics, focused on healthcare and clean energy. I position myself as a translator between domain expertise and data analytics—converting complex questions into actionable insights.<br>
 
