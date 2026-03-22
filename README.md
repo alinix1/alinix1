@@ -54,8 +54,8 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" width="100" height="28">
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" title="DBT" alt="DBT" width="80" height="26">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" alt="Scikit-learn" width="100" height="28">
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title=Plotly alt="Plotly" width="100" height="28">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="100" height="28">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="Kaggle" alt="Kaggle" width="100" height="28">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="100" height="28">
 </div>
   
