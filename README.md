@@ -51,18 +51,18 @@ I'm passionate about leveraging data for social impact.<br>
    <h2 align="center">Frontend Technologies</h2> 
    
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML" width="100" height="28">
-<img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="100" height="28">
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS" alt="CSS3" width="100" height="28">
-<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS" width="100" height="28">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="100" height="28">  
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="100" height="28">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" width="100" height="28">
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" width="100" height="28">
-<img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" width="100" height="28">
-<img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" width="100" height="28">    
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" width="100" height="28">
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" width="100" height="28">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML" height="28">
+<img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" height="28">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS" alt="CSS3" height="28">
+<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS" height="28">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" height="28">  
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" height="28">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" height="28">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" title="TypeScript" alt="TypeScript" height="28">
+<img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" title="Context API" alt="Context API" height="28">
+<img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" title="Router" alt="Router" height="28">    
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React" height="28">
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" height="28">
 </div>
 
   <h2 align="center">Backend Technologies</h2> 
