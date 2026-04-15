@@ -1,15 +1,3 @@
-<!-- <div align="center">
-   <a href="">
-    <img alt="Ali's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=alinix1&theme=aura&show_icons=true" />
-  </a>
-  <a href="https://github.com/alinix1/github-readme-stats">
-    <img alt="Ali's Top Langs" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinix1&theme=aura&layout=compact" />
-  </a>
-</div> -->
-
-
-<br/>
-
 <div align="center">
   <a href="mailto:anix8605@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" width="100" height="28">
@@ -43,10 +31,10 @@ I'm passionate about leveraging data for social impact.<br>
 
  ---
 
- <p align="center"> 
+ <h2 align="center"> 
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
- </p> 
-   <p align="center">Data Analysis Tools</p> 
+ </h2> 
+   <h2 align="center">Data Analysis Tools</h2> 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="100" height="28">
@@ -59,7 +47,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="100" height="28">
 </div>
   
-   <p align="center">Frontend Technologies</p> 
+   <h2 align="center">Frontend Technologies</h2> 
    
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML" width="100" height="28">
@@ -77,7 +65,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="NextJS" alt="NextJS" width="100" height="28">
 </div>
 
-  <p align="center">Backend Technologies</p> 
+  <h2 align="center">Backend Technologies</h2> 
   
 <div align="center">
 <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express" width="100" height="28">
@@ -88,7 +76,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Spotify" alt="Spotify" width="100" height="28">
 </div>
 
- <p align="center">Miscellaneous + Deployment</p> 
+ <h2 align="center">Miscellaneous + Deployment</h2> 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" width="100" height="28">
@@ -106,7 +94,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" title="Webpack" alt="Webpack" width="100" height="28">
 </div>
 
- <p align="center">Testing Frameworks</p> 
+ <h2 align="center">Testing Frameworks</h2> 
 
 <div align="center">  
 <img src="https://img.shields.io/badge/Pytest-3776AB.svg?style=for-the-badge&logo=Pytest&logoColor=white" title="Pytest" alt="Pytest" width="100" height="28">
@@ -117,7 +105,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" width="100" height="28">
 </div>
 
- <p align="center">Exposure Technologies</p> 
+ <h2 align="center">Exposure Technologies</h2> 
 
 <div align="center">    
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="28">
