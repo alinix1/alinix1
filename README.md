@@ -79,6 +79,7 @@ I'm passionate about leveraging data for social impact.<br>
  <h2 align="center">Miscellaneous + Deployment</h2> 
 
 <div align="center">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" height="28">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" height="28">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" height="28">
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" height="28">
