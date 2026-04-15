@@ -36,7 +36,7 @@ I'm passionate about leveraging data for social impact.<br>
  </h2> 
    <h2 align="center">Data Analysis Tools</h2> 
 
-<p align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="100" height="28">
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" width="100" height="28">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" width="100" height="28">
@@ -45,7 +45,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title=Plotly alt="Plotly" width="100" height="28">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="100" height="28">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="100" height="28">
-</p>
+
   
    <h2 align="center">Frontend Technologies</h2> 
    
@@ -54,7 +54,6 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="JSX" alt="JSX" width="100" height="28">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS" alt="CSS3" width="100" height="28">
 <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS" width="100" height="28">
-<!-- <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" title="Daisy UI" alt="Daisy UI" width="100" height="28">  -->
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="100" height="28">  
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="100" height="28">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript" width="100" height="28">
@@ -111,7 +110,6 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="28">
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" width="100" height="28">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="100" height="28">
-<!-- <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vue" alt="Vue" width="100" height="28"> -->
 <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" width="100" height="28">
 </div>
 
