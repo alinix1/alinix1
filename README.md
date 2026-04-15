@@ -43,10 +43,10 @@ I'm passionate about leveraging data for social impact.<br>
 
  ---
 
- <h2 align="center"> 
+ <p align="center"> 
   <img src="https://user-images.githubusercontent.com/28677929/215577042-2ee971e3-7446-441b-8f4a-d46377f83a1d.jpg" width="600">
- </h2> 
-   <h2 align="center">Data Analysis Tools</h2> 
+ </p> 
+   <p align="center">Data Analysis Tools</p> 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="100" height="28">
