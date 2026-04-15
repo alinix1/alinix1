@@ -36,7 +36,7 @@ I'm passionate about leveraging data for social impact.<br>
  </h2> 
    <h2 align="center">Data Analysis Tools</h2> 
 
-<div style="text-align: center;">
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="100" height="28">
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" width="100" height="28">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" width="100" height="28">
@@ -45,7 +45,7 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title=Plotly alt="Plotly" width="100" height="28">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="100" height="28">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="100" height="28">
-</div>
+</p>
   
    <h2 align="center">Frontend Technologies</h2> 
    
