@@ -68,50 +68,50 @@ I'm passionate about leveraging data for social impact.<br>
   <h2 align="center">Backend Technologies</h2> 
   
 <div align="center">
-<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express" width="100" height="28">
-<img src="https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" title="Knex" alt="Knex" width="100" height="28">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="28">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" width="100" height="28">
-<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" title="Stripe" alt="Stripe" width="100" height="28">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Spotify" alt="Spotify" width="100" height="28">
+<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express" height="28">
+<img src="https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" title="Knex" alt="Knex" height="28">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" title="PostgreSQL" alt="PostgreSQL" height="28">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="Firebase" height="28">
+<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" title="Stripe" alt="Stripe" height="28">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Spotify" alt="Spotify" height="28">
 </div>
 
  <h2 align="center">Miscellaneous + Deployment</h2> 
 
 <div align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" width="100" height="28">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" width="100" height="28">
-<img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" width="100" height="28">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="100" height="28">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="100" height="28">
-<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" title="Vercel" alt="Vercel" width="100" height="28">
-<img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" title="Heroku" alt="Heroku" width="100" height="28">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS" width="100" height="28">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" width="100" height="28">
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" title="yarn" alt="yarn" width="100" height="28">
-<img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" width="100" height="28">
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" title="Vite" alt="Vite" width="100" height="28">
-<img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" title="Webpack" alt="Webpack" width="100" height="28">
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma" height="28">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" height="28">
+<img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" title="Miro" alt="Miro" height="28">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" height="28">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" height="28">
+<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" title="Vercel" alt="Vercel" height="28">
+<img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" title="Heroku" alt="Heroku" height="28">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS" height="28">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" height="28">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" title="yarn" alt="yarn" height="28">
+<img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" height="28">
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" title="Vite" alt="Vite" height="28">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" title="Webpack" alt="Webpack" height="28">
 </div>
 
  <h2 align="center">Testing Frameworks</h2> 
 
 <div align="center">  
-<img src="https://img.shields.io/badge/Pytest-3776AB.svg?style=for-the-badge&logo=Pytest&logoColor=white" title="Pytest" alt="Pytest" width="100" height="28">
-<img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" width="100" height="28">
-<img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" title="Chai" alt="Chai" width="100" height="28">
-<img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white" title="Cypress" alt="Cypress" width="100" height="28">
-<img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" title="Playwright" alt="Playwright" width="100" height="28">
-<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" width="100" height="28">
+<img src="https://img.shields.io/badge/Pytest-3776AB.svg?style=for-the-badge&logo=Pytest&logoColor=white" title="Pytest" alt="Pytest" height="28">
+<img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" title="Mocha" alt="Mocha" height="28">
+<img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" title="Chai" alt="Chai" height="28">
+<img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white" title="Cypress" alt="Cypress" height="28">
+<img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" title="Playwright" alt="Playwright" height="28">
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" height="28">
 </div>
 
  <h2 align="center">Exposure Technologies</h2> 
 
 <div align="center">    
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" width="100" height="28">
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" width="100" height="28">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="100" height="28">
-<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" width="100" height="28">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" height="28">
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" height="28">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" height="28">
+<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" height="28">
 </div>
 
 
