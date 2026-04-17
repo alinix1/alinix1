@@ -106,14 +106,14 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" height="28">
 </div>
 
- <h2 align="center">Exposure Technologies</h2> 
+ <!-- <h2 align="center">Exposure Technologies</h2> --> 
 
-<div align="center">    
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" height="28">
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" height="28">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" height="28">
-<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" height="28">
-</div>
+<!-- <div align="center">     -->
+<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" height="28"> -->
+<!-- <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" height="28"> -->
+<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" height="28"> -->
+<!-- <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" height="28"> -->
+<!-- </div> -->
 
 
 
