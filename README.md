@@ -92,7 +92,6 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown" alt="Markdown" height="28">
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" title="yarn" alt="yarn" height="28">
 <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" height="28">
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" title="Vite" alt="Vite" height="28">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" title="Webpack" alt="Webpack" height="28">
 </div>
 
@@ -107,14 +106,6 @@ I'm passionate about leveraging data for social impact.<br>
 <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" title="React-Testing-Library" alt="React-Testing-Library" height="28">
 </div>
 
- <!-- <h2 align="center">Exposure Technologies</h2> --> 
-
-<!-- <div align="center">     -->
-<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" title="Redux" alt="Redux" height="28"> -->
-<!-- <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint" height="28"> -->
-<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" height="28"> -->
-<!-- <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" title="Apollo GraphQL" alt="Apollo GraphQL" height="28"> -->
-<!-- </div> -->
 
 
 
