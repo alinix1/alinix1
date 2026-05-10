@@ -22,9 +22,9 @@ I'm passionate about leveraging data for social impact.<br>
 
  ---
 
- - Things I enjoy include climbing 🧗, skiing ⛷️, biking 🚴, traveling 🌎, concerts 🎶, and art 🎨<br>
+ - Things I enjoy include climbing 🧗, skiing ⛷️, biking 🚴, traveling 🌎, concerts 🎶, and cooking gluten & dairy-free 🍳<br>
  - 🌱 Currently learning/reviewing: SQL, Python, Snowflake, dbt, ETL, Tableau, and Excel for data analytics and engineering<br>
- - 💪 My soft skills and strengths include life-long learning, discipline, futuristic thinking, consistency, focus and empathy <br>
+ - 💪 My soft skills and strengths include life-long learning, discipline, futuristic thinking, consistency, focus and empathy<br>
  - 🎓 *Turing School of Software & Design* | *Kent State University* <br>
  - ⚡ Certifications: <a href='https://www.credly.com/badges/a3dae618-e9aa-4c14-98ae-4bbf24e2b3c0/public_url'>AWS, Cloud Practitioner</a>, <a href='https://www.credly.com/badges/6cac6903-d94c-497e-b4e1-d5d957371b4a/public_url'>Google, UX Design</a>
  <br>
