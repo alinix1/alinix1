@@ -22,7 +22,7 @@ I'm passionate about leveraging data for social impact.<br>
 
  ---
 
- - Things I enjoy include climbing 🧗, skiing ⛷️, biking 🚴, traveling 🌎, concerts 🎶, and cooking gluten & dairy-free 🍳<br>
+ - Things I enjoy include climbing 🧗, skiing ⛷️, biking 🚴, traveling 🌎, concerts 🎶, and cooking gluten-free & dairy-free 🍳<br>
  - 🌱 Currently learning/reviewing: SQL, Python, Snowflake, dbt, ETL, Tableau, and Excel for data analytics and engineering<br>
  - 💪 My soft skills and strengths include life-long learning, discipline, futuristic thinking, consistency, focus and empathy<br>
  - 🎓 *Turing School of Software & Design* | *Kent State University* <br>
