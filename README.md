@@ -15,7 +15,7 @@ My name is Ali Nix. I'm a data analyst with a Master's in Biostatistics, focused
 
 I build end-to-end data solutions-from ETL pipelines and statistical analysis to interactive dashboards and data storytelling.<br>
 
-With a background spanning public health and full-stack web development, I bring a unique combination of domain expertise, technical versatility, and analytical problem-solving to every project.<br>
+With a background spanning public health and full-stack web development, I bring a unique combination of experience, technical versatility, and analytical problem-solving to every project.<br>
 
 I'm passionate about leveraging data for social impact.<br>
 <br>
