@@ -17,7 +17,7 @@ I build end-to-end data solutions: from ETL pipelines, EDA, and statistical anal
 
 With a background spanning public health and full-stack web development, I bring a unique combination of experience, technical versatility, and analytical problem-solving to every project.<br>
 
-I'm passionate about leveraging data for social impact.<br>
+I'm passionate about leveraging analytics for public health and social impact.<br>
 <br>
 
  ---
