@@ -11,7 +11,7 @@
 <h2 align="center"> 
 Data Analyst 
 </h2>
-My name is Ali Nix. I'm a data analyst with a Master of Public Health in Biostatistics.<br>
+My name is Ali Nix. I'm a public health data analyst with a Master of Public Health in Biostatistics.<br>
 
 I build end-to-end data solutions: from ETL pipelines, EDA, and statistical analysis to interactive dashboards and data storytelling.<br>
 
