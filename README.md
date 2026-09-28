@@ -15,7 +15,7 @@ My name is Ali Nix. I'm a public health data analyst with a Master of Public Hea
 
 I build end-to-end data solutions: from ETL pipelines, EDA, and statistical analysis to interactive dashboards and data storytelling.<br>
 
-With a background spanning public health and full-stack web development, I bring a unique combination of experience, technical versatility, and analytical problem-solving to every project.<br>
+With a background spanning public health, applied data science, and full-stack web development, I bring a unique combination of experience, technical versatility, and analytical problem-solving to every project.<br>
 
 I'm passionate about leveraging analytics for public health and social impact.<br>
 <br>
